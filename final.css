@@ -1,0 +1,21 @@
+body{
+		font-family: Arial,sans-serif;
+		background-color: darkgreen;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+	}
+	h1,h2,h3{
+		text-align: center;
+	}
+	h1,h2,h3{
+		margin: 10px 0;
+	}
+	h1,h2,h3{
+		color: skyblue;
+	}
+	h1,h2,h3{
+		color: red;
+		animation: fadeIn 1s forwards;
+	}
